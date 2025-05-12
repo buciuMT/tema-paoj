@@ -1,0 +1,5 @@
+Jhon Ion Banu;35;Bucuresti
+Nicolae Ceausescu;28;Craiova
+Klaus Werner Iohanis;45;Sibiu
+Ion Iliescu;32;Bucuresti
+Andrei Popescu;40;Tg-Jiu
